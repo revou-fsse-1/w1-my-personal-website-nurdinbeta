@@ -34,5 +34,3 @@ Now I'm focusing to increase a new skill so I join as a student of Full Stack So
 | Windy   | <https://windy.com>  | To look for the weather condition in a specific area |
 | YouTube | <https://youtube.com> | To entertaining purpose    |
 
-
-# w0-my-profile-nurdinbeta
