@@ -6,7 +6,7 @@
 
 Hi, i'm Nurdin Beta. an Air Traffic Controller.
 
-! [Nurdin Beta Photo]()
+! [Nurdin Beta Photo](pic.assign/nube.jpeg)
 
 I'm an Air Traffic Controller in one of the AirNav Indonesia main branch located in Makassar.
 
