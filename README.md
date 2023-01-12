@@ -35,3 +35,4 @@ Now I'm focusing to increase a new skill so I join as a student of Full Stack So
 | YouTube | <https://youtube.com> | To entertaining purpose    |
 
 
+# w0-my-profile-nurdinbeta
