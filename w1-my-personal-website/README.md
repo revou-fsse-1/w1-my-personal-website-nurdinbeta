@@ -1,3 +1,4 @@
 # Nurdin Beta Website
 
-This is an example assignment for personal website
+This is an example for my personal website
+
