@@ -1,21 +1,55 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="index.css" />
-    <title>Nurdin Beta Website</title>
-</head>
-<h1>Nurdin Beta Website</h1>
+    <title>Nube's Website</title>
+    <meta
+      name="description"
+      content="I'm an Air Traffic Controller and student of Revou FSSE"
+    />
+  </head>
+  <div class="header">
+    <h1>Nurdin Beta Website</h1>
+  </div>
 
-<p>Welcome to Nurdin Beta's Website</p>
+  <body>
+    <nav>
+      <div class="topnav">
+        <a class="active" href="/">Home</a>
+        <a href="/about">About</a>
+        <a href="/contact">Contact</a>
+      </div>
+    </nav>
 
-<body>
-    <a href="https://google.com">google</a>
-    <img src="https://www.polymtl.ca/calendrier/sites/calendrier.amigow2020.polymtl.ca/files/googlelogo.jpg" alt="google">
-    
+    <div class="paragraph">
+      <p>Hi, I'm Nube'</p>
+      <p>
+        Welcome to my personal website, where you can see nothing except my
+        assignment work
+      </p>
+    </div>
 
-    <footer>copyright 2023 Nurdin Beta</footer>
-</body>
+    <main class="main-content">
+      <div>
+        <img class="my-photo" src="/assets/nube.jpeg" alt="Nurdin Beta" />
+      </div>
+
+      <div>
+        <p class="myjob">
+          🧑🏻‍🏫 Air Traffic Controller 🧑🏻‍💻 Software Engineering Student at RevoU
+        </p>
+      </div>
+
+      <div class="button">
+        <button onclick="alert('Hi, Have a great day!')">Click Me!</button>
+      </div>
+    </main>
+
+    <footer>copyright &copy; 2023 nurdin beta</footer>
+
+    <script src="index.js"></script>
+  </body>
 </html>

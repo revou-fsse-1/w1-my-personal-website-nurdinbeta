@@ -34,33 +34,15 @@ body {
   color: white;
 }
 
-.paragraph {
-  font-size: large;
-  text-align: center;
-}
-
-.my-photo {
-  display: block;
+.about {
+  width: 320px;
+  padding: 50px;
+  border: 5px solid #333;
+  margin-top: 50px;
   margin-left: auto;
   margin-right: auto;
-  width: 250px;
-  border-radius: 5px;
-}
-
-.myjob {
-  text-align: center;
-}
-
-button {
-  background-color: #849a92;
-  border-radius: 0.2rem;
-  border-style: none;
-  color: #e0faff;
-  cursor: pointer;
-  font-size: 1rem;
-}
-
-.button {
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: medium;
   text-align: center;
 }
 
@@ -68,5 +50,5 @@ footer {
   text-align: center;
   font-family: "Gill Sans";
   color: black;
-  padding: 50px;
+  padding: 110px;
 }
