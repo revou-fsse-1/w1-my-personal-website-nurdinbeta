@@ -19,6 +19,6 @@ This is the simple personal website of Nurdin Beta made using HTML, CSS, and Jav
 
 ![Screenshoot 1](assets/sc1.PNG)
 
-![Screenshoot 1](assets/sc2.PNG)
+![Screenshoot 2](assets/sc2.PNG)
 
-![Screenshoot 1](assets/sc3.PNG)
+![Screenshoot 3](assets/sc3.PNG)
